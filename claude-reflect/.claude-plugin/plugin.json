@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-claude-reflect",
+  "version": "1.5.0",
+  "description": "Self-learning system for Claude Code that captures corrections and updates CLAUDE.md automatically",
+  "author": {
+    "name": "Bayram Annakov"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "self-learning",
+    "corrections",
+    "claude.md",
+    "memory",
+    "learnings",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "web-to-github-issue",
+  "version": "1.0.0",
+  "description": "Enhances Claude's web_search Skill by creating GitHub issues from research",
+  "author": {
+    "name": "Claude Code Plugins Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "github",
+    "automation",
+    "skill-enhancer"
+  ]
+}

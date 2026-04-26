@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-recommendation-engine",
+  "version": "1.0.0",
+  "description": "Build recommendation systems and engines",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "recommendations",
+    "collaborative",
+    "content-based",
+    "ranking",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

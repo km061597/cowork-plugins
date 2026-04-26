@@ -1,0 +1,22 @@
+{
+  "name": "intentsolutionsio-database-test-manager",
+  "version": "1.0.0",
+  "description": "Database testing utilities with test data setup, transaction rollback, and schema validation",
+  "author": {
+    "name": "Claude Code Plugin Hub"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "database",
+    "sql",
+    "test-data",
+    "fixtures",
+    "migrations",
+    "transactions",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

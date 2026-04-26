@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-git-commit-smart",
+  "version": "1.0.0",
+  "description": "AI-powered conventional commit message generator with smart analysis",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "commits",
+    "conventional-commits",
+    "automation",
+    "devops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-regression-analysis-tool",
+  "version": "1.0.0",
+  "description": "Regression analysis and modeling",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "regression",
+    "prediction",
+    "linear",
+    "polynomial",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

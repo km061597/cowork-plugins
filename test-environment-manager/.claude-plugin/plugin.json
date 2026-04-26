@@ -1,0 +1,21 @@
+{
+  "name": "intentsolutionsio-test-environment-manager",
+  "version": "1.0.0",
+  "description": "Manage test environments with Docker Compose, Testcontainers, and environment isolation",
+  "author": {
+    "name": "Claude Code Plugin Hub"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "environment",
+    "docker",
+    "testcontainers",
+    "isolation",
+    "infrastructure",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-anthropic-pack",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for Anthropic - 30 skills covering Claude API, prompt engineering, and AI model integration",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "anthropic",
+    "claude-api",
+    "prompt-engineering",
+    "llm",
+    "ai-skills",
+    "saas-pack"
+  ]
+}

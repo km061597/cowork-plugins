@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-computer-vision-processor",
+  "version": "1.0.0",
+  "description": "Computer vision image processing and analysis",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cv",
+    "vision",
+    "images",
+    "detection",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-cache-performance-optimizer",
+  "version": "1.0.0",
+  "description": "Optimize caching strategies for improved performance",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cache",
+    "performance",
+    "optimization",
+    "redis",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

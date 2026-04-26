@@ -1,0 +1,17 @@
+{
+  "name": "intentsolutionsio-wondelai-design-everyday-things",
+  "version": "1.0.0",
+  "description": "Fundamental design principles for intuitive interfaces",
+  "author": {
+    "name": "Wondel.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "wondelai",
+    "skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "intentsolutionsio-neurodivergent-visual-org",
+  "version": "3.1.1",
+  "description": "Create ADHD-friendly visual organizational tools (Mermaid diagrams) optimized for neurodivergent thinking patterns with accessibility modes",
+  "author": {
+    "name": "Jack Reis"
+  },
+  "license": "MIT",
+  "keywords": [
+    "neurodivergent",
+    "adhd",
+    "autism",
+    "executive-dysfunction",
+    "visual-organization",
+    "task-breakdown",
+    "decision-trees",
+    "accessibility",
+    "cognitive-modes",
+    "mode-toggle",
+    "neurotypical",
+    "inclusive-design",
+    "mermaid-diagrams",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

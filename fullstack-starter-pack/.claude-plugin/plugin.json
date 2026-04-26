@@ -1,0 +1,30 @@
+{
+  "name": "intentsolutionsio-fullstack-starter-pack",
+  "version": "1.0.0",
+  "description": "Complete fullstack development toolkit: React, Express/FastAPI, PostgreSQL scaffolding with AI agents",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fullstack",
+    "react",
+    "express",
+    "fastapi",
+    "postgresql",
+    "prisma",
+    "typescript",
+    "authentication",
+    "scaffolding",
+    "components",
+    "api",
+    "database",
+    "deployment",
+    "docker",
+    "ci-cd",
+    "mvp",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

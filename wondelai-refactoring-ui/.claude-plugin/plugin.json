@@ -1,0 +1,17 @@
+{
+  "name": "intentsolutionsio-wondelai-refactoring-ui",
+  "version": "1.0.0",
+  "description": "Practical UI design system for professional interfaces",
+  "author": {
+    "name": "Wondel.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "wondelai",
+    "skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

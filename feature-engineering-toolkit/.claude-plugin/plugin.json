@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-feature-engineering-toolkit",
+  "version": "1.0.0",
+  "description": "Feature creation, selection, and transformation tools",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "features",
+    "engineering",
+    "selection",
+    "transformation",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

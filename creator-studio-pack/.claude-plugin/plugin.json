@@ -1,0 +1,30 @@
+{
+  "name": "intentsolutionsio-creator-studio-pack",
+  "version": "1.0.0",
+  "description": "Complete plugin suite for builder-filmmakers: Build products AND create viral videos explaining them. 20 plugins covering documentation, video production, content strategy, and workflow optimization.",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "content creation",
+    "youtube",
+    "filmmaking",
+    "creator",
+    "documentation",
+    "screencast",
+    "tutorial",
+    "video editing",
+    "content strategy",
+    "distribution",
+    "thumbnails",
+    "subtitles",
+    "repurposing",
+    "batch recording",
+    "analytics",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

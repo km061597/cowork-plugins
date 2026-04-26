@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-deployment-pipeline-orchestrator",
+  "version": "1.0.0",
+  "description": "Orchestrate complex multi-stage deployment pipelines",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pipeline",
+    "orchestration",
+    "deployment",
+    "cicd",
+    "devops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

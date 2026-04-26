@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-integration-test-runner",
+  "version": "1.0.0",
+  "description": "Run and manage integration test suites with environment setup, database seeding, and cleanup",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "integration-tests",
+    "test-runner",
+    "e2e",
+    "api-testing",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

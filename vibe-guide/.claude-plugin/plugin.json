@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-vibe-guide",
+  "version": "1.0.0",
+  "description": "Non-technical progress summaries for Claude Code work (hides diffs/log noise).",
+  "author": {
+    "name": "Intent Solutions"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ux",
+    "accessibility",
+    "explain",
+    "pairing",
+    "non-technical",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

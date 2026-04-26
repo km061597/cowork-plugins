@@ -1,0 +1,17 @@
+{
+  "name": "intentsolutionsio-wondelai-blue-ocean-strategy",
+  "version": "1.0.0",
+  "description": "Blue Ocean Strategy framework for creating uncontested market space",
+  "author": {
+    "name": "Wondel.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "business-tools",
+    "wondelai",
+    "skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

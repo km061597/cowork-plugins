@@ -1,0 +1,17 @@
+{
+  "name": "intentsolutionsio-wondelai-jobs-to-be-done",
+  "version": "1.0.0",
+  "description": "Strategic product innovation framework using JTBD theory",
+  "author": {
+    "name": "Wondel.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "business-tools",
+    "wondelai",
+    "skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

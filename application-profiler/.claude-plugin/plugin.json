@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-application-profiler",
+  "version": "1.0.0",
+  "description": "Profile application performance with CPU, memory, and execution time analysis",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "performance",
+    "profiling",
+    "monitoring",
+    "optimization",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

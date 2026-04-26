@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-workhuman-pack",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for Workhuman - 18 skills covering employee recognition, rewards, and workplace culture",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "workhuman",
+    "employee-recognition",
+    "rewards",
+    "workplace-culture",
+    "ai-skills",
+    "saas-pack"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-database-index-advisor",
+  "version": "1.0.0",
+  "description": "Analyze query patterns and recommend optimal database indexes with impact analysis",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "database",
+    "indexes",
+    "optimization",
+    "performance",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

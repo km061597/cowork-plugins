@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-dex-aggregator-router",
+  "version": "1.0.0",
+  "description": "Find optimal DEX routes for token swaps across multiple exchanges",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dex",
+    "swap",
+    "trading",
+    "defi",
+    "aggregator",
+    "routing",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

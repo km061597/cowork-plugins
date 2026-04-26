@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-research-to-deploy",
+  "version": "0.1.0",
+  "description": "Enhances web_search Skill by researching best practices and deploying infrastructure automatically",
+  "author": {
+    "name": "Claude Code Plugins Team"
+  },
+  "license": "MIT",
+  "keywords": [
+    "deployment",
+    "infrastructure",
+    "automation",
+    "devops",
+    "skill-enhancer",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-deep-learning-optimizer",
+  "version": "1.0.0",
+  "description": "Deep learning optimization techniques",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "optimization",
+    "adam",
+    "sgd",
+    "learning-rate",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

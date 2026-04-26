@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-auto-scaling-configurator",
+  "version": "1.0.0",
+  "description": "Configure auto-scaling policies for applications and infrastructure",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "autoscaling",
+    "scaling",
+    "hpa",
+    "kubernetes",
+    "devops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

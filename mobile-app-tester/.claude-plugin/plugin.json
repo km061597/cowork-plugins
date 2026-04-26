@@ -1,0 +1,23 @@
+{
+  "name": "intentsolutionsio-mobile-app-tester",
+  "version": "1.0.0",
+  "description": "Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps",
+  "author": {
+    "name": "Claude Code Plugin Hub"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "mobile",
+    "appium",
+    "detox",
+    "xcuitest",
+    "espresso",
+    "ios",
+    "android",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

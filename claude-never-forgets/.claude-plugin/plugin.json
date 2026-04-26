@@ -1,0 +1,18 @@
+{
+  "name": "intentsolutionsio-claude-never-forgets",
+  "version": "1.0.0",
+  "description": "Persistent memory across sessions. Learns preferences, conventions, and corrections automatically.",
+  "author": {
+    "name": "yldrmahmet"
+  },
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "persistence",
+    "learning",
+    "context",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

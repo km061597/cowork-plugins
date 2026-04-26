@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-langchain-pack",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for LangChain - 24 skills covering chains, agents, RAG pipelines, and LLM applications",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "langchain",
+    "llm-framework",
+    "agents",
+    "rag",
+    "ai-skills",
+    "saas-pack"
+  ]
+}

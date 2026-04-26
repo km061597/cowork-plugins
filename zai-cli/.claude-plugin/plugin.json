@@ -1,0 +1,24 @@
+{
+  "name": "intentsolutionsio-zai-cli",
+  "version": "1.0.0",
+  "description": "Z.AI vision, search, reader, and GitHub exploration via CLI and MCP. Analyze images, search the web, read pages as markdown, explore repos.",
+  "author": {
+    "name": "Numman Ali"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "vision",
+    "image-analysis",
+    "ocr",
+    "web-search",
+    "web-reader",
+    "github",
+    "mcp",
+    "z-ai",
+    "glm-4",
+    "multimodal",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

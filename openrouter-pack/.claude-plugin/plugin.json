@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-openrouter-pack",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for OpenRouter - 30 skills covering multi-model LLM gateway and API routing",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "openrouter",
+    "llm-gateway",
+    "multi-model",
+    "api",
+    "ai-skills",
+    "saas-pack"
+  ]
+}

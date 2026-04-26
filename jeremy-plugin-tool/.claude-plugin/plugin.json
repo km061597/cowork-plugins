@@ -1,0 +1,23 @@
+{
+  "name": "intentsolutionsio-jeremy-plugin-tool",
+  "version": "2.0.0",
+  "description": "Ultimate plugin management toolkit with 4 auto-invoked Skills for creating, validating, auditing, and versioning plugins in the claude-code-plugins marketplace",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "plugin-management",
+    "marketplace",
+    "validation",
+    "audit",
+    "versioning",
+    "meta-plugin",
+    "repository-tools",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

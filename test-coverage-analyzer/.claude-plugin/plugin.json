@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-test-coverage-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze code coverage metrics, identify untested code, and generate comprehensive coverage reports",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "coverage",
+    "code-coverage",
+    "metrics",
+    "analysis",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

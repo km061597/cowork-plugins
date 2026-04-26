@@ -1,0 +1,21 @@
+{
+  "name": "intentsolutionsio-ai-commit-gen",
+  "version": "1.0.0",
+  "description": "AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "commit",
+    "conventional-commits",
+    "ai",
+    "automation",
+    "productivity",
+    "devops",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

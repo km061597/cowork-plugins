@@ -1,0 +1,31 @@
+{
+  "name": "intentsolutionsio-security-pro-pack",
+  "version": "1.0.0",
+  "description": "Professional security tools for Claude Code: vulnerability scanning, compliance, cryptography audit, container & API security",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "vulnerability-scanning",
+    "compliance",
+    "hipaa",
+    "pci-dss",
+    "gdpr",
+    "soc2",
+    "cryptography",
+    "crypto-audit",
+    "owasp",
+    "penetration-testing",
+    "container-security",
+    "docker-security",
+    "api-security",
+    "threat-modeling",
+    "stride",
+    "devsecops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin"
+  ]
+}

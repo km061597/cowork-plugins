@@ -1,0 +1,25 @@
+{
+  "name": "intentsolutionsio-code-cleanup",
+  "version": "1.0.0",
+  "description": "Comprehensive codebase cleanup across 11 quality dimensions with confidence scoring and build verification gates",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "code-quality",
+    "cleanup",
+    "refactoring",
+    "dead-code",
+    "deduplication",
+    "type-safety",
+    "security",
+    "performance",
+    "async",
+    "tech-debt",
+    "code-review",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

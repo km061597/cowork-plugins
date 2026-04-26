@@ -1,0 +1,22 @@
+{
+  "name": "intentsolutionsio-visual-regression-tester",
+  "version": "1.0.0",
+  "description": "Visual diff testing with Percy, Chromatic, BackstopJS - catch unintended UI changes",
+  "author": {
+    "name": "Claude Code Plugin Hub"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "visual-regression",
+    "ui-testing",
+    "percy",
+    "chromatic",
+    "backstop",
+    "screenshot-testing",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

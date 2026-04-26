@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-data-visualization-creator",
+  "version": "1.0.0",
+  "description": "Create data visualizations and plots",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "visualization",
+    "plots",
+    "charts",
+    "graphs",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-agent-context-manager",
+  "version": "1.0.0",
+  "description": "Automatically detects and loads AGENTS.md files to provide agent-specific instructions alongside CLAUDE.md. Enables specialized agent behaviors without manual intervention.",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "context",
+    "automation",
+    "workflow",
+    "productivity",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

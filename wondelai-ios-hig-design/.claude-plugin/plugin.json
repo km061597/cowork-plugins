@@ -1,0 +1,17 @@
+{
+  "name": "intentsolutionsio-wondelai-ios-hig-design",
+  "version": "1.0.0",
+  "description": "Native iOS app design following Apple Human Interface Guidelines",
+  "author": {
+    "name": "Wondel.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "wondelai",
+    "skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

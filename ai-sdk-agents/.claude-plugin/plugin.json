@@ -1,0 +1,28 @@
+{
+  "name": "intentsolutionsio-ai-sdk-agents",
+  "version": "1.0.0",
+  "description": "Multi-agent orchestration with AI SDK v5 - handoffs, routing, and coordination for any AI provider (OpenAI, Anthropic, Google)",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ai-sdk",
+    "agents",
+    "multi-agent",
+    "orchestration",
+    "handoff",
+    "routing",
+    "llm",
+    "openai",
+    "anthropic",
+    "google",
+    "claude",
+    "ai",
+    "coordination",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

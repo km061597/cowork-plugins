@@ -1,0 +1,21 @@
+{
+  "name": "intentsolutionsio-e2e-test-framework",
+  "version": "1.0.0",
+  "description": "End-to-end test automation with Playwright, Cypress, and Selenium for browser-based testing",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "e2e",
+    "playwright",
+    "cypress",
+    "selenium",
+    "browser-testing",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

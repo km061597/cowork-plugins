@@ -1,0 +1,21 @@
+{
+  "name": "intentsolutionsio-dependency-checker",
+  "version": "1.0.0",
+  "description": "Check dependencies for known vulnerabilities, outdated packages, and license compliance",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "dependencies",
+    "npm",
+    "pip",
+    "composer",
+    "vulnerabilities",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

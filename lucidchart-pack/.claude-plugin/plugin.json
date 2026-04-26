@@ -1,0 +1,19 @@
+{
+  "name": "intentsolutionsio-lucidchart-pack",
+  "version": "1.0.0",
+  "description": "Claude Code skill pack for Lucidchart - 18 skills covering diagramming, flowcharts, and visual collaboration",
+  "author": {
+    "name": "Jeremy Longshore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "lucidchart",
+    "diagramming",
+    "flowcharts",
+    "visual-collaboration",
+    "ai-skills",
+    "saas-pack"
+  ]
+}

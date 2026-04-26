@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-performance-test-suite",
+  "version": "1.0.0",
+  "description": "Load testing and performance benchmarking with metrics analysis and bottleneck identification",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "performance",
+    "load-testing",
+    "benchmarking",
+    "stress-testing",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "intentsolutionsio-compliance-checker",
+  "version": "1.0.0",
+  "description": "Check infrastructure compliance (SOC2, HIPAA, PCI-DSS)",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "compliance",
+    "security",
+    "audit",
+    "soc2",
+    "hipaa",
+    "devops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

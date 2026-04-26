@@ -1,0 +1,503 @@
+{
+  "name": "jeremy-plugins",
+  "owner": {
+    "name": "km061597"
+  },
+  "plugins": [
+    {
+      "name": "intentsolutionsio-access-control-auditor",
+      "source": "./access-control-auditor",
+      "description": "Audit access control implementations"
+    },
+    {
+      "name": "intentsolutionsio-accessibility-test-scanner",
+      "source": "./accessibility-test-scanner",
+      "description": "A11y compliance testing with WCAG 2.1/2.2 validation, screen reader compatibility, and automated accessibility audits"
+    },
+    {
+      "name": "intentsolutionsio-agent-context-manager",
+      "source": "./agent-context-manager",
+      "description": "Automatically detects and loads AGENTS.md files to provide agent-specific instructions alongside CLAUDE.md. Enables specialized agent behaviors without manual intervention."
+    },
+    {
+      "name": "intentsolutionsio-ai-commit-gen",
+      "source": "./ai-commit-gen",
+      "description": "AI-powered commit message generator - analyzes your git diff and creates conventional commit messages instantly"
+    },
+    {
+      "name": "intentsolutionsio-ai-sdk-agents",
+      "source": "./ai-sdk-agents",
+      "description": "Multi-agent orchestration with AI SDK v5 - handoffs, routing, and coordination for any AI provider (OpenAI, Anthropic, Google)"
+    },
+    {
+      "name": "intentsolutionsio-anomaly-detection-system",
+      "source": "./anomaly-detection-system",
+      "description": "Detect anomalies and outliers in data"
+    },
+    {
+      "name": "intentsolutionsio-anthropic-pack",
+      "source": "./anthropic-pack",
+      "description": "Claude Code skill pack for Anthropic - 30 skills covering Claude API, prompt engineering, and AI model integration"
+    },
+    {
+      "name": "intentsolutionsio-api-sdk-generator",
+      "source": "./api-sdk-generator",
+      "description": "Generate client SDKs from OpenAPI specs for multiple languages"
+    },
+    {
+      "name": "intentsolutionsio-application-profiler",
+      "source": "./application-profiler",
+      "description": "Profile application performance with CPU, memory, and execution time analysis"
+    },
+    {
+      "name": "intentsolutionsio-authentication-validator",
+      "source": "./authentication-validator",
+      "description": "Validate authentication implementations"
+    },
+    {
+      "name": "intentsolutionsio-auto-scaling-configurator",
+      "source": "./auto-scaling-configurator",
+      "description": "Configure auto-scaling policies for applications and infrastructure"
+    },
+    {
+      "name": "intentsolutionsio-b12-claude-plugin",
+      "source": "./b12-claude-plugin",
+      "description": "B12 Website Generator plugin allows you to create a professional, engaging, and user-friendly website in seconds using AI. To create a website, you need to provide a name for your project/business, al"
+    },
+    {
+      "name": "intentsolutionsio-bottleneck-detector",
+      "source": "./bottleneck-detector",
+      "description": "Detect and resolve performance bottlenecks"
+    },
+    {
+      "name": "intentsolutionsio-brand-strategy-framework",
+      "source": "./brand-strategy-framework",
+      "description": "A 7-part brand strategy framework for building comprehensive brand foundations - the same methodology top agencies use with Fortune 500 clients."
+    },
+    {
+      "name": "intentsolutionsio-browser-compatibility-tester",
+      "source": "./browser-compatibility-tester",
+      "description": "Cross-browser testing with Playwright, BrowserStack, Sauce Labs, LambdaTest, and Kobiton - test across Chrome, Firefox, Safari, Edge on real devices"
+    },
+    {
+      "name": "intentsolutionsio-cache-performance-optimizer",
+      "source": "./cache-performance-optimizer",
+      "description": "Optimize caching strategies for improved performance"
+    },
+    {
+      "name": "intentsolutionsio-capacity-planning-analyzer",
+      "source": "./capacity-planning-analyzer",
+      "description": "Analyze and plan for capacity requirements"
+    },
+    {
+      "name": "intentsolutionsio-ci-cd-pipeline-builder",
+      "source": "./ci-cd-pipeline-builder",
+      "description": "Build CI/CD pipelines for GitHub Actions, GitLab CI, Jenkins, and more"
+    },
+    {
+      "name": "intentsolutionsio-claude-never-forgets",
+      "source": "./claude-never-forgets",
+      "description": "Persistent memory across sessions. Learns preferences, conventions, and corrections automatically."
+    },
+    {
+      "name": "intentsolutionsio-claude-reflect",
+      "source": "./claude-reflect",
+      "description": "Self-learning system for Claude Code that captures corrections and updates CLAUDE.md automatically"
+    },
+    {
+      "name": "intentsolutionsio-code-cleanup",
+      "source": "./code-cleanup",
+      "description": "Comprehensive codebase cleanup across 11 quality dimensions with confidence scoring and build verification gates"
+    },
+    {
+      "name": "intentsolutionsio-compliance-checker",
+      "source": "./compliance-checker",
+      "description": "Check infrastructure compliance (SOC2, HIPAA, PCI-DSS)"
+    },
+    {
+      "name": "intentsolutionsio-compliance-report-generator",
+      "source": "./compliance-report-generator",
+      "description": "Generate compliance reports"
+    },
+    {
+      "name": "intentsolutionsio-computer-vision-processor",
+      "source": "./computer-vision-processor",
+      "description": "Computer vision image processing and analysis"
+    },
+    {
+      "name": "intentsolutionsio-contract-test-validator",
+      "source": "./contract-test-validator",
+      "description": "API contract testing with Pact, OpenAPI validation, and consumer-driven contract verification"
+    },
+    {
+      "name": "intentsolutionsio-creator-studio-pack",
+      "source": "./creator-studio-pack",
+      "description": "Complete plugin suite for builder-filmmakers: Build products AND create viral videos explaining them. 20 plugins covering documentation, video production, content strategy, and workflow optimization."
+    },
+    {
+      "name": "intentsolutionsio-data-visualization-creator",
+      "source": "./data-visualization-creator",
+      "description": "Create data visualizations and plots"
+    },
+    {
+      "name": "intentsolutionsio-database-index-advisor",
+      "source": "./database-index-advisor",
+      "description": "Analyze query patterns and recommend optimal database indexes with impact analysis"
+    },
+    {
+      "name": "intentsolutionsio-database-security-scanner",
+      "source": "./database-security-scanner",
+      "description": "Database plugin for database-security-scanner"
+    },
+    {
+      "name": "intentsolutionsio-database-test-manager",
+      "source": "./database-test-manager",
+      "description": "Database testing utilities with test data setup, transaction rollback, and schema validation"
+    },
+    {
+      "name": "intentsolutionsio-deep-learning-optimizer",
+      "source": "./deep-learning-optimizer",
+      "description": "Deep learning optimization techniques"
+    },
+    {
+      "name": "intentsolutionsio-dependency-checker",
+      "source": "./dependency-checker",
+      "description": "Check dependencies for known vulnerabilities, outdated packages, and license compliance"
+    },
+    {
+      "name": "intentsolutionsio-deployment-pipeline-orchestrator",
+      "source": "./deployment-pipeline-orchestrator",
+      "description": "Orchestrate complex multi-stage deployment pipelines"
+    },
+    {
+      "name": "intentsolutionsio-devops-automation-pack",
+      "source": "./devops-automation-pack",
+      "description": "25 professional DevOps plugins for CI/CD, deployment, Docker, Kubernetes, and infrastructure automation. Save 20+ hours of manual work."
+    },
+    {
+      "name": "intentsolutionsio-dex-aggregator-router",
+      "source": "./dex-aggregator-router",
+      "description": "Find optimal DEX routes for token swaps across multiple exchanges"
+    },
+    {
+      "name": "intentsolutionsio-e2e-test-framework",
+      "source": "./e2e-test-framework",
+      "description": "End-to-end test automation with Playwright, Cypress, and Selenium for browser-based testing"
+    },
+    {
+      "name": "intentsolutionsio-environment-config-manager",
+      "source": "./environment-config-manager",
+      "description": "Manage environment configurations and secrets across deployments"
+    },
+    {
+      "name": "intentsolutionsio-excel-analyst-pro",
+      "source": "./excel-analyst-pro",
+      "description": "Professional financial modeling toolkit for Claude Code with auto-invoked Skills and Excel MCP integration. Build DCF models, LBO analysis, variance reports, and pivot tables using natural language."
+    },
+    {
+      "name": "intentsolutionsio-executive-assistant-skills",
+      "source": "./executive-assistant-skills",
+      "description": "AI-powered executive assistant skills that fully replace a human EA. Research meeting attendees, draft emails, create meeting briefs, and manage action items."
+    },
+    {
+      "name": "intentsolutionsio-feature-engineering-toolkit",
+      "source": "./feature-engineering-toolkit",
+      "description": "Feature creation, selection, and transformation tools"
+    },
+    {
+      "name": "intentsolutionsio-firecrawl-pack",
+      "source": "./firecrawl-pack",
+      "description": "Claude Code skill pack for FireCrawl - 30 skills covering web scraping and LLM-ready markdown"
+    },
+    {
+      "name": "intentsolutionsio-fullstack-starter-pack",
+      "source": "./fullstack-starter-pack",
+      "description": "Complete fullstack development toolkit: React, Express/FastAPI, PostgreSQL scaffolding with AI agents"
+    },
+    {
+      "name": "intentsolutionsio-gh-dash",
+      "source": "./gh-dash",
+      "description": "GitHub PR dashboard for Claude Code. View PR status, CI/CD progress, bot comments, and merge PRs directly from your terminal."
+    },
+    {
+      "name": "intentsolutionsio-git-commit-smart",
+      "source": "./git-commit-smart",
+      "description": "AI-powered conventional commit message generator with smart analysis"
+    },
+    {
+      "name": "intentsolutionsio-integration-test-runner",
+      "source": "./integration-test-runner",
+      "description": "Run and manage integration test suites with environment setup, database seeding, and cleanup"
+    },
+    {
+      "name": "intentsolutionsio-jeremy-adk-orchestrator",
+      "source": "./jeremy-adk-orchestrator",
+      "description": "Production ADK orchestrator for A2A protocol and multi-agent coordination on Vertex AI"
+    },
+    {
+      "name": "intentsolutionsio-jeremy-github-actions-gcp",
+      "source": "./jeremy-github-actions-gcp",
+      "description": "GitHub Actions CI/CD workflows for Google Cloud and Vertex AI deployments"
+    },
+    {
+      "name": "intentsolutionsio-jeremy-plugin-tool",
+      "source": "./jeremy-plugin-tool",
+      "description": "Ultimate plugin management toolkit with 4 auto-invoked Skills for creating, validating, auditing, and versioning plugins in the claude-code-plugins marketplace"
+    },
+    {
+      "name": "intentsolutionsio-langchain-pack",
+      "source": "./langchain-pack",
+      "description": "Claude Code skill pack for LangChain - 24 skills covering chains, agents, RAG pipelines, and LLM applications"
+    },
+    {
+      "name": "intentsolutionsio-langchain-py-pack",
+      "source": "./langchain-py-pack",
+      "description": "Claude Code skill pack for LangChain 1.0 + LangGraph 1.0 (Python) - 34 skills covering chains, agents, RAG, middleware, checkpointing, HITL, streaming, and production patterns"
+    },
+    {
+      "name": "intentsolutionsio-load-test-runner",
+      "source": "./load-test-runner",
+      "description": "Create and execute load tests for performance validation"
+    },
+    {
+      "name": "intentsolutionsio-lucidchart-pack",
+      "source": "./lucidchart-pack",
+      "description": "Claude Code skill pack for Lucidchart - 18 skills covering diagramming, flowcharts, and visual collaboration"
+    },
+    {
+      "name": "intentsolutionsio-mobile-app-tester",
+      "source": "./mobile-app-tester",
+      "description": "Mobile app test automation with Appium, Detox, XCUITest - test iOS and Android apps"
+    },
+    {
+      "name": "intentsolutionsio-neurodivergent-visual-org",
+      "source": "./neurodivergent-visual-org",
+      "description": "Create ADHD-friendly visual organizational tools (Mermaid diagrams) optimized for neurodivergent thinking patterns with accessibility modes"
+    },
+    {
+      "name": "intentsolutionsio-ollama-local-ai",
+      "source": "./ollama-local-ai",
+      "description": "Run AI models locally with Ollama - free alternative to OpenAI, Anthropic, and other paid LLM APIs. Zero-cost, privacy-first AI infrastructure."
+    },
+    {
+      "name": "intentsolutionsio-openrouter-pack",
+      "source": "./openrouter-pack",
+      "description": "Claude Code skill pack for OpenRouter - 30 skills covering multi-model LLM gateway and API routing"
+    },
+    {
+      "name": "intentsolutionsio-overnight-dev",
+      "source": "./overnight-dev",
+      "description": "Run Claude autonomously for 6-8 hours overnight using Git hooks that enforce TDD - wake up to fully tested features"
+    },
+    {
+      "name": "intentsolutionsio-penetration-tester",
+      "source": "./penetration-tester",
+      "description": "Security testing toolkit with HTTP header analysis, dependency auditing, and static code scanning"
+    },
+    {
+      "name": "intentsolutionsio-performance-test-suite",
+      "source": "./performance-test-suite",
+      "description": "Load testing and performance benchmarking with metrics analysis and bottleneck identification"
+    },
+    {
+      "name": "intentsolutionsio-recommendation-engine",
+      "source": "./recommendation-engine",
+      "description": "Build recommendation systems and engines"
+    },
+    {
+      "name": "intentsolutionsio-regression-analysis-tool",
+      "source": "./regression-analysis-tool",
+      "description": "Regression analysis and modeling"
+    },
+    {
+      "name": "intentsolutionsio-regression-test-tracker",
+      "source": "./regression-test-tracker",
+      "description": "Track and run regression tests to ensure new changes don't break existing functionality"
+    },
+    {
+      "name": "intentsolutionsio-research-to-deploy",
+      "source": "./research-to-deploy",
+      "description": "Enhances web_search Skill by researching best practices and deploying infrastructure automatically"
+    },
+    {
+      "name": "intentsolutionsio-security-agent",
+      "source": "./security-agent",
+      "description": "Specialized security review subagent"
+    },
+    {
+      "name": "intentsolutionsio-security-audit-reporter",
+      "source": "./security-audit-reporter",
+      "description": "Generate comprehensive security audit reports"
+    },
+    {
+      "name": "intentsolutionsio-security-misconfiguration-finder",
+      "source": "./security-misconfiguration-finder",
+      "description": "Find security misconfigurations"
+    },
+    {
+      "name": "intentsolutionsio-security-pro-pack",
+      "source": "./security-pro-pack",
+      "description": "Professional security tools for Claude Code: vulnerability scanning, compliance, cryptography audit, container & API security"
+    },
+    {
+      "name": "intentsolutionsio-security-test-scanner",
+      "source": "./security-test-scanner",
+      "description": "Automated security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and authentication issues"
+    },
+    {
+      "name": "intentsolutionsio-smoke-test-runner",
+      "source": "./smoke-test-runner",
+      "description": "Quick smoke test suites to verify critical functionality after deployments"
+    },
+    {
+      "name": "intentsolutionsio-snapshot-test-manager",
+      "source": "./snapshot-test-manager",
+      "description": "Manage and update snapshot tests with intelligent diff analysis and selective updates"
+    },
+    {
+      "name": "intentsolutionsio-supabase-pack",
+      "source": "./supabase-pack",
+      "description": "Claude Code skill pack for Supabase - 30 skills covering database operations, authentication, edge functions, realtime subscriptions, and production operations"
+    },
+    {
+      "name": "intentsolutionsio-test-coverage-analyzer",
+      "source": "./test-coverage-analyzer",
+      "description": "Analyze code coverage metrics, identify untested code, and generate comprehensive coverage reports"
+    },
+    {
+      "name": "intentsolutionsio-test-data-generator",
+      "source": "./test-data-generator",
+      "description": "Generate realistic test data including users, products, orders, and custom schemas for comprehensive testing"
+    },
+    {
+      "name": "intentsolutionsio-test-doubles-generator",
+      "source": "./test-doubles-generator",
+      "description": "Generate mocks, stubs, spies, and fakes for unit testing with Jest, Sinon, and test frameworks"
+    },
+    {
+      "name": "intentsolutionsio-test-environment-manager",
+      "source": "./test-environment-manager",
+      "description": "Manage test environments with Docker Compose, Testcontainers, and environment isolation"
+    },
+    {
+      "name": "intentsolutionsio-test-orchestrator",
+      "source": "./test-orchestrator",
+      "description": "Orchestrate complex test workflows with dependencies, parallel execution, and smart test selection"
+    },
+    {
+      "name": "intentsolutionsio-test-report-generator",
+      "source": "./test-report-generator",
+      "description": "Generate comprehensive test reports with coverage, trends, and stakeholder-friendly formats"
+    },
+    {
+      "name": "intentsolutionsio-unit-test-generator",
+      "source": "./unit-test-generator",
+      "description": "Automatically generate comprehensive unit tests from source code with multiple testing framework support"
+    },
+    {
+      "name": "intentsolutionsio-validate-plugin",
+      "source": "./validate-plugin",
+      "description": "Validates Claude Code plugin structure against official Anthropic spec and Intent Solutions enterprise standard"
+    },
+    {
+      "name": "intentsolutionsio-vibe-guide",
+      "source": "./vibe-guide",
+      "description": "Non-technical progress summaries for Claude Code work (hides diffs/log noise)."
+    },
+    {
+      "name": "intentsolutionsio-visual-regression-tester",
+      "source": "./visual-regression-tester",
+      "description": "Visual diff testing with Percy, Chromatic, BackstopJS - catch unintended UI changes"
+    },
+    {
+      "name": "intentsolutionsio-vulnerability-scanner",
+      "source": "./vulnerability-scanner",
+      "description": "Comprehensive vulnerability scanning for code, dependencies, and configurations with CVE detection"
+    },
+    {
+      "name": "web-to-github-issue",
+      "source": "./web-to-github-issue",
+      "description": "Enhances Claude's web_search Skill by creating GitHub issues from research"
+    },
+    {
+      "name": "intentsolutionsio-webflow-pack",
+      "source": "./webflow-pack",
+      "description": "Claude Code skill pack for Webflow - 24 skills covering visual web development, CMS APIs, and site management"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-blue-ocean-strategy",
+      "source": "./wondelai-blue-ocean-strategy",
+      "description": "Blue Ocean Strategy framework for creating uncontested market space"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-design-everyday-things",
+      "source": "./wondelai-design-everyday-things",
+      "description": "Fundamental design principles for intuitive interfaces"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-hooked-ux",
+      "source": "./wondelai-hooked-ux",
+      "description": "Hook Model framework for building habit-forming products"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-ios-hig-design",
+      "source": "./wondelai-ios-hig-design",
+      "description": "Native iOS app design following Apple Human Interface Guidelines"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-jobs-to-be-done",
+      "source": "./wondelai-jobs-to-be-done",
+      "description": "Strategic product innovation framework using JTBD theory"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-obviously-awesome",
+      "source": "./wondelai-obviously-awesome",
+      "description": "Product positioning framework for competitive differentiation"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-one-page-marketing",
+      "source": "./wondelai-one-page-marketing",
+      "description": "End-to-end marketing plan framework in a single page"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-refactoring-ui",
+      "source": "./wondelai-refactoring-ui",
+      "description": "Practical UI design system for professional interfaces"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-scorecard-marketing",
+      "source": "./wondelai-scorecard-marketing",
+      "description": "Lead generation framework using quiz and assessment funnels"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-top-design",
+      "source": "./wondelai-top-design",
+      "description": "Award-winning web design framework for premium experiences"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-ux-heuristics",
+      "source": "./wondelai-ux-heuristics",
+      "description": "Usability heuristics and principles for UX audits"
+    },
+    {
+      "name": "intentsolutionsio-wondelai-web-typography",
+      "source": "./wondelai-web-typography",
+      "description": "Web typography framework for readable, beautiful type"
+    },
+    {
+      "name": "intentsolutionsio-workhuman-pack",
+      "source": "./workhuman-pack",
+      "description": "Claude Code skill pack for Workhuman - 18 skills covering employee recognition, rewards, and workplace culture"
+    },
+    {
+      "name": "intentsolutionsio-youtube-strategy",
+      "source": "./youtube-strategy",
+      "description": "Complete YouTube content production workflow: research competitors, generate video ideas, build briefs, craft titles and thumbnails, and create detailed video outlines with demo prep checklists."
+    },
+    {
+      "name": "intentsolutionsio-zai-cli",
+      "source": "./zai-cli",
+      "description": "Z.AI vision, search, reader, and GitHub exploration via CLI and MCP. Analyze images, search the web, read pages as markdown, explore repos."
+    }
+  ]
+}

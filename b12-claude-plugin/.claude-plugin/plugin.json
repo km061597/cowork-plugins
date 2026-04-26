@@ -1,0 +1,18 @@
+{
+  "name": "intentsolutionsio-b12-claude-plugin",
+  "version": "1.0.0",
+  "description": "B12 Website Generator plugin allows you to create a professional, engaging, and user-friendly website in seconds using AI. To create a website, you need to provide a name for your project/business, al",
+  "author": {
+    "name": "B12.io"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "website",
+    "b12",
+    "hosting",
+    "web-design",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}

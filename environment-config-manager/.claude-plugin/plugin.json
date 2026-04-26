@@ -1,0 +1,20 @@
+{
+  "name": "intentsolutionsio-environment-config-manager",
+  "version": "1.0.0",
+  "description": "Manage environment configurations and secrets across deployments",
+  "author": {
+    "name": "Claude Code Plugins"
+  },
+  "license": "MIT",
+  "keywords": [
+    "config",
+    "environment",
+    "secrets",
+    "configuration",
+    "devops",
+    "agent-skills",
+    "claude-code",
+    "claude-plugin",
+    "tonsofskills"
+  ]
+}
